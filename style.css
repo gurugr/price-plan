@@ -1,9 +1,10 @@
 
 .pricing-container{
-    margin-top: 200px;
     display: flex;
     gap: 20px;
     justify-content: center;
+    align-items: center;
+    height: 100vh;
 
 }
 .pricing-plan{
@@ -98,6 +99,7 @@ ul{
 }
 .pricing-plan{
     margin-bottom: 50px;
+    min-width: 350px;
     
 }
 
